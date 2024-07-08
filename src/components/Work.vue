@@ -81,7 +81,7 @@
     </div>
     
 </div>
-<div class=" ml-8 mt-0 sm:ml-28 sm:mt-60 ">
+<div class=" ml-8 mt-0 sm:ml-28 sm:mt-80 ">
     <h2 class="mb-2 text-lg font-semibold text-gray-900 dark:text-white">Features:</h2>
     <ul class="max-w-md space-y-1 text-gray-500 list-disc list-inside dark:text-gray-400">
         <li>
