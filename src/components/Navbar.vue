@@ -1,3 +1,4 @@
+<!---
 <template>
   <div class="overflow-x-hidden bg-gray-50 sticky top-0 z-50 shadow-md">
     <header class="py-4 md:py-6">
@@ -82,7 +83,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
                 });
             }, 100);
         });
-    });
+    }); -->
   
 })
 </script>
