@@ -31,7 +31,7 @@
             <a href="#contact" title="" class="text-base font-medium text-gray-900 transition-all duration-200 rounded focus:outline-none font-pj hover:text-opacity-50 focus:ring-1 focus:ring-gray-900 focus:ring-offset-2"> Contact me </a>
 
             <a
-              href="#"
+               href="https://drive.google.com/file/d/1SvDbn9fvNsRf7lAAbBhXPM-Ce2KP8dlv/view?usp=sharing" target="_blank" 
               title=""
               class="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
               role="button"
@@ -55,7 +55,7 @@
             <a href="#contact" title="" class="flex items-center p-3 -m-3 text-base font-medium text-gray-900 transition-all duration-200 rounded-xl hover:bg-gray-50 focus:outline-none font-pj focus:ring-1 focus:ring-gray-900 focus:ring-offset-2"> Contact me </a>
 
             <a
-              href=""
+               href="https://drive.google.com/file/d/1SvDbn9fvNsRf7lAAbBhXPM-Ce2KP8dlv/view?usp=sharing" target="_blank" 
               title=""
               class="inline-flex items-center justify-center px-6 py-3 text-base font-bold leading-7 text-white transition-all duration-200 bg-gray-900 border border-transparent rounded-xl hover:bg-gray-600 font-pj focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
               role="button"
