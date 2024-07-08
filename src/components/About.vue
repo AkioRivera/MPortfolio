@@ -7,7 +7,7 @@
                     <div class="flex items-center -mx-2 sm:-mx-3">
                         <div class="w-full px-2 sm:px-3 xl:w-1/2">
                             <div class="py-2 sm:py-3">
-                                <img src="../assets/image/avatar.JPG" alt="" class="w-full rounded-2xl" />
+                                <img src="../assets/image/avatar1.png" alt="" class="w-full rounded-2xl" />
                             </div>
                             <div class="py-3 sm:py-4">
                                 <img src="../assets/image/img2.jpg" alt="" class="w-full rounded-2xl" />
